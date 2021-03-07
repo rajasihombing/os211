@@ -13,3 +13,8 @@ ZCZC W01 120 L12 Assignment #2
 ZCZC W01 60 L13 Assignment #3
 ZCZC W01 30 L14 Assignment #4
 ZCZC W01 180 L15 Assignment #5
+ZCZC W01 15 L16 Assignment #6
+ZCZC W01 120 L17 Assignment #7
+ZCZC W01 150 L18 Assignment #8
+ZCZC W01 5 L04 Menghubungkan top 10 link
+ZCZC W01 L22 GSGS di youtube
