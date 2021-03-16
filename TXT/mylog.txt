@@ -18,3 +18,12 @@ ZCZC W01 120 L17 Assignment #7
 ZCZC W01 150 L18 Assignment #8
 ZCZC W01 5 L04 Menghubungkan top 10 link
 ZCZC W01 75 L22 GSGS di youtube
+ZCZC W02 60 L11 Assignment #1 Belajar basic C
+ZCZC W02 15 L12 Assignment #2 Melakukan generate public key
+ZCZC W02 30 L13 Assignment #3 Melakukan Export, Pada percobaan pertama salah kode export
+ZCZC W02 10 L14 Assignment #4 Membuat file myrank.txt dan mengisinya
+ZCZC W02 150 L15 Assignment #5 Membuat file w02.md dan mengisinya
+ZCZC W02 30 L16 Assignment #6 Membuat bash script, mencari tahu apa itu bash script dan mengingat kembali wget
+ZCZC W02 10 L17 Assignment #7 Melakukan update pada mylog.TXT
+ZCZC W02 40 L26 Movie: watching brooklyn 99
+ZCZC W02 30 L22 Youtube: watch about bash scripting and bussiness insider
