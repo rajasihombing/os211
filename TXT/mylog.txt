@@ -27,3 +27,9 @@ ZCZC W02 30 L16 Assignment #6 Membuat bash script, mencari tahu apa itu bash scr
 ZCZC W02 10 L17 Assignment #7 Melakukan update pada mylog.TXT
 ZCZC W02 40 L26 Movie: watching brooklyn 99
 ZCZC W02 30 L22 Youtube: watch about bash scripting and bussiness insider
+ZCZC W03 90 L02 ZOOM Related: Masuk kelas OS pada minggu 3
+ZCZC W03 30 L05 GSGS related: Melakukan GSGS untuk membantu dalam mengerjakan assignment
+ZCZC W03 30 L23 Discord: discussion with peer group
+ZCZC W03 10 L22 Youtube: watch Kurzgesagt
+ZCZC W03 180 L10 Assignment (General): Melakukan instruksi, bertanya kepada asdos, melakukan googling untuk hal yang tidak dipahami
+ZCZC W03 20 L5 C-language: belajar syntax-syntax baru
