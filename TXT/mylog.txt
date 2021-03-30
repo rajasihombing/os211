@@ -33,3 +33,8 @@ ZCZC W03 30 L23 Discord: discussion with peer group
 ZCZC W03 10 L22 Youtube: watch Kurzgesagt
 ZCZC W03 180 L10 Assignment (General): Melakukan instruksi, bertanya kepada asdos, melakukan googling untuk hal yang tidak dipahami
 ZCZC W03 20 L5 C-language: belajar syntax-syntax baru
+ZCZC W04 140 L02 ZOOM related kelas week 4
+ZCZC W04 90 L10 Assignment (General) Melakukan assignment pada week 4
+ZCZC W04 30 L09 Menanyakan tugas atau step kepada asdos melalui discord
+ZCZC W04 240 L26 Watching Justice League Snyder's Cut
+ZCZC W04 45 L25 C-language study about IO
