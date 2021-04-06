@@ -38,3 +38,7 @@ ZCZC W04 90 L10 Assignment (General) Melakukan assignment pada week 4
 ZCZC W04 30 L09 Menanyakan tugas atau step kepada asdos melalui discord
 ZCZC W04 240 L26 Watching Justice League Snyder's Cut
 ZCZC W04 45 L25 C-language study about IO
+ZCZC W05 120 L10 Assignment (General) Melakukan assignment pada week 5
+ZCZC W05 30 L22 Youtube: belajar mengenai banner dan scp
+ZCZC W05 30 L05 GSGS related mengenai banner dan sejenisnya
+ZCZC W05 20 L26 Watching family guy
