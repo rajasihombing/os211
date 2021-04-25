@@ -42,3 +42,11 @@ ZCZC W05 120 L10 Assignment (General) Melakukan assignment pada week 5
 ZCZC W05 30 L22 Youtube: belajar mengenai banner dan scp
 ZCZC W05 30 L05 GSGS related mengenai banner dan sejenisnya
 ZCZC W05 20 L26 Watching family guy
+ZCZC W06 15 L01 SCELE related
+ZCZC W06 10 L04 GitHub Pages: membuat permalink
+ZCZC W06 15 L08 Trying something new with C
+ZCZC W06 30 L10 Assignment melakukan assignment pada week 06
+ZCZC W06 30 L25 C-language: mencoba melakukan input-output
+ZCZC W06 120 L26 Watcing Seasiracy
+ZCZC W06 30 L22 YouTube: study about concurrency
+ZCZC W06 Discord: doing discussion with the bois
