@@ -47,6 +47,11 @@ ZCZC W06 10 L04 GitHub Pages: membuat permalink
 ZCZC W06 15 L08 Trying something new with C
 ZCZC W06 30 L10 Assignment melakukan assignment pada week 06
 ZCZC W06 30 L25 C-language: mencoba melakukan input-output
-ZCZC W06 120 L26 Watcing Seasiracy
+ZCZC W06 120 L26 Watcing Seaspiracy
 ZCZC W06 30 L22 YouTube: study about concurrency
 ZCZC W06 Discord: doing discussion with the bois
+ZCZC W07 140 L02 Weekly Zoom Meeting
+ZCZC W07 120 L10 Do Assignment in Week 07
+ZCZC W07 30 L08 Trying to change id_rsa
+ZCZC W07 120 L26 Watching Family Guy
+ZCZC W07 45 L25 Learning about loop in C-Language

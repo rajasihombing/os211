@@ -14,3 +14,4 @@ Operating Systems 2021-1 - Raja Aldwyn James Napintor Sihombing
 * [Week 04](https://rajasihombing.github.io/os211/W04/)
 * [Week 05](https://rajasihombing.github.io/os211/W05/)
 * [Week 06](https://rajasihombing.github.io/os211/W06/)
+* [Week 07](https://rajasihombing.github.io/os211/W07/)
