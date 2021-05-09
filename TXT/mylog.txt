@@ -55,3 +55,4 @@ ZCZC W07 120 L10 Do Assignment in Week 07
 ZCZC W07 30 L08 Trying to change id_rsa
 ZCZC W07 120 L26 Watching Family Guy
 ZCZC W07 45 L25 Learning about loop in C-Language
+ZCZC W08 250 L10 Do Assignment in Week 08
