@@ -59,3 +59,4 @@ ZCZC W08 250 L10 Do Assignment in Week 08
 ZCZC W09 60 L05 GSGS Related: melakukan gsgs LFS
 ZCZC W09 360 L10 Do Assignment in Week 08
 ZCZC W09 20 L26 Watching Star Wars: Bad Batch
+ZCZC W10 600 L10 Do Assignment in Week 10
